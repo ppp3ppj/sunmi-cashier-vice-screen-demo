@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="product_mode">
+        <item>@string/goods_juice</item>
+        <item>@string/goods_snacks</item>
+        <item>@string/goods_other</item>
+        <item>@string/gift</item>
+        <item>@string/experience</item>
+        <item>@string/related</item>
+    </array>
+
+</resources>
